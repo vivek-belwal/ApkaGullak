@@ -46,7 +46,7 @@ DB_NAME=securebank
 ```
 
 ### 4. Boot Up the Application
-With the database running, launch both the Node.js server and API:
+With the database running, launch both the Node.js server and API: 
 
 ```bash
 npm run dev
